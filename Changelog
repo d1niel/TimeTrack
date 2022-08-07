@@ -5,7 +5,7 @@ TimeTrack | ©2022 Daniel Bergmann
    - Suchalgorithmus in Datum, Auftrag, Beschreibung, Info angepasst
    - Änderungsverlauf Zeit normal/decimal ausgeblendet
    - SAP Export von ANSI auf UTF8 geändert
-   - Updatefenster mit Changelog 
+   - Beim Programmstart werden vorhandene Updates auf Github mit Changelog abgefragt
 
 1.2 | 01.07.2022
    - Bugfix DPI (Popup Buttons und Statusbar)
