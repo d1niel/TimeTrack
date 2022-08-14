@@ -1,6 +1,7 @@
-# TimeTrack | ©2022 Daniel Bergmann
+# TimeTrack
+©2022 Daniel Bergmann
 
-## [1.3] - 2022-08-01
+## 1.3 | 01.08.2022
 
 ### Änderungen
    - Suchtreffer "Dauer" ist umschaltbar zwischen `Normal/Dezimal`
