@@ -2,8 +2,6 @@
 ©2022 Daniel Bergmann
 
 ## 1.3 | 01.08.2022
-
-### Änderungen
    - Suchtreffer "Dauer" ist umschaltbar zwischen `Normal/Dezimal`
    - Suchalgorithmus geändert. Es wird nur in Datum, Auftrag,
      Beschreibung und Info gesucht
@@ -11,7 +9,7 @@
    - SAP Export Datenformat von `ANSI` auf `UTF8` geändert
    - Abfrage auf vorhande Updates / Changelog 
 
-1.2 | 01.07.2022
+## 1.2 | 01.07.2022
    - Bugfix DPI (Popup Buttons und Statusbar)
    - SAPExport ZCN25N
    - Bugfix Übersicht Prozentrechnen (ceil mit round ersetzt)
@@ -22,10 +20,10 @@
    - Balkendiagramm Übersicht
 
 
-1.1 | 08.06.2022
+## 1.1 | 08.06.2022
   - Designauswahl 
   - Einfügen nach selektierter Zeile
   - Bugfix wenn die Startzeit in der Zukunft liegt
 
-1.0 | 30.05.2022 
+## 1.0 | 30.05.2022 
   - Veröffentlichung 
