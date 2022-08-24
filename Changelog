@@ -1,5 +1,8 @@
 TimeTrack | ©2022 Daniel Bergmann
 
+1.X | XX.XX.XXXX
+   - Bugfix Sortierung Datum direkt nach dem starten wenn keine Zeile makiert wurde
+   
 1.3 | 15.08.2022
    - Suchtreffer Anzeige "Dauer" ist umschaltbar zwischen Normal/Dezimal
    - Suchalgorithmus geändert. Es wird nur in Datum, Auftrag,
