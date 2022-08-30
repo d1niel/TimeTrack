@@ -1,10 +1,13 @@
 TimeTrack | ©2022 Daniel Bergmann
 
 Kommendes Update
-   - Umlaute werden im SAPimport ersetzt
-   - Bugfix Sortierung Datum direkt nach dem starten wenn keine Zeile markiert wurde
-   - Bugfix Infotext mit ";"-Zeichen wird in der CSV-Datei richtig gespeichert/gelesen
-   - Mehrere Zeilen sind als Infotext möglich (Multiline)
+   + Multiline
+      - Info wird zu Rückmelde-/Freitext
+      - Mehrere Zeilen sind nun möglich
+      - Bugfix Infotext mit ";"-Zeichen wird in der CSV-Datei richtig gespeichert/gelesen
+   - Div. Textanpassungen 
+   - SAP Export angepasst (Umlaute, Strichpunkt)
+   - Bugfix Sortierung Datum
    
 1.3 | 15.08.2022
    - Suchtreffer Anzeige "Dauer" ist umschaltbar zwischen Normal/Dezimal
