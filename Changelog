@@ -2,14 +2,17 @@ TimeTrack | ©2022 Daniel Bergmann
 
 Kommendes Update
    + Multiline
-      - Info wird zu Rückmelde-/Freitext
-      - Mehrere Zeilen sind nun möglich / GUI Anpassungen
-      - Bugfix Infotext mit ";"-Zeichen wird in der CSV-Datei richtig gespeichert/gelesen
+       - Info wird zu Rückmelde-/Freitext
+       - Mehrere Zeilen sind nun möglich / GUI Anpassungen
    - Div. Textanpassungen 
    - SAP Export angepasst (Umlaute, Strichpunkt)
-   - Bugfix Sortierung Datum
-   - Bugfix Stoppuhr Play wird nicht zurück gesetzt
-   
+   - Favoriten mit Doppelklick bearbeiten / Drag&Drop verschieben / "Entf" löschen
+   + Bugfix
+       - Sortierung Datum
+       - Bugfix Infotext mit ";"-Zeichen wird in der CSV-Datei richtig gespeichert/gelesen
+       - Bugfix Stoppuhr Play wird nicht zurück gesetzt
+       - Sortierung Datum nach neustart falsch
+       
 1.3 | 15.08.2022
    - Suchtreffer Anzeige "Dauer" ist umschaltbar zwischen Normal/Dezimal
    - Suchalgorithmus geändert. Es wird nur in Datum, Auftrag,
