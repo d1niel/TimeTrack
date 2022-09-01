@@ -9,7 +9,7 @@ Kommendes Update
    - Favoriten mit Doppelklick bearbeiten / Drag&Drop verschieben / "Entf" löschen
    + Bugfix
        - Sortierung Datum
-       - Bugfix Infotext mit ";"-Zeichen wird in der CSV-Datei richtig gespeichert/gelesen
+       - Bugfix Infotext mit ";"-Zeichen wird in der CSV-Datei richtig gespeichert/gelesen / Lib auf UTF-8 geändert
        - Bugfix Stoppuhr Play wird nicht zurück gesetzt
        - Sortierung Datum nach neustart falsch
        
