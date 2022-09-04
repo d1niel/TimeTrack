@@ -1,12 +1,11 @@
 TimeTrack | ©2022 Daniel Bergmann
 
 Kommendes Update
-   + Multiline
-       - Info wird zu Rückmelde-/Freitext
-       - Mehrere Zeilen sind nun möglich / GUI Anpassungen
+   - Mehrere Zeilen sind nun möglich / GUI Anpassungen Infofeld
    - Div. Textanpassungen 
-   - SAP Export angepasst (Umlaute, Strichpunkt)
+   - SAP Export angepasst (Umlaute, Strichpunkt, Sonderzeichen werden entfernt)
    - Favoriten mit Doppelklick bearbeiten / Drag&Drop verschieben / "Entf" löschen
+   - Neue Designauswahlt "Hell", div. grafische Anpassungen
    + Bugfix
        - Sortierung Datum
        - Bugfix Infotext mit ";"-Zeichen wird in der CSV-Datei richtig gespeichert/gelesen / Lib auf UTF-8 geändert
